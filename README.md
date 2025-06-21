@@ -13,7 +13,7 @@
 <p align="center">
 <img 
     src="./assets/cover.png"
-    width="400"  
+    width="450"  
 />
 </p>
 
@@ -40,9 +40,9 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um e-book, sobre o tema de "Como se proteger na Internet", o e-book é do nicho de segurança da informação e os subnicho é proteção e privacidade, o título deve ser épico e curto, e tenha uma temática com linguagem comum no título, me liste 5 variações de títulos                                                        |
-| conteúdo | crie capitulos e texto para cada capitulo para e-book: Segredo Digital: Proteja-se!. {REGRAS} -Faça o texto com linguagem simples - Deixe o texto enxudo -Trago exemplos no contexto real |
+| conteúdo | crie capitulos e texto para cada capitulo para e-book: Segredo Digital: Proteja-se!. {REGRAS} -Faça o texto com linguagem simples - Deixe o texto enxudo -Trago exemplos no contexto real 						|
 
-| imagem | crie uma imagem: A mysterious, dark-toned digital environment. In the center, a person with a hood (face partially hidden) is holding a glowing digital lock, symbolizing secrecy and protection. Behind them, streams of binary code and holographic icons float in the air—representing data, privacy, and cyber threats. The background features subtle padlocks, fingerprint symbols, and digital shields. The mood is serious but empowering, giving the impression of someone ready to defend their digital life. |
+| imagem | crie uma imagem: A mysterious, dark-toned digital environment. In the center, a person with a hood (face partially hidden) is holding a glowing digital lock, symbolizing secrecy and protection. Behind them, streams of binary code and holographic icons float in the air—representing data, privacy, and cyber threats. The background features subtle padlocks, fingerprint symbols, and digital shields. The mood is serious but empowering, giving the impression of someone ready to defend their digital life.												 |
 
 
 ## ✨ Features
@@ -65,11 +65,11 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/104573995?s=48&v=4"
     />
     <p>&nbsp&nbsp&nbspJoão Filhor<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/jfjoaofilho">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/
 jfjoaofilho/">LinkedIn</a>
